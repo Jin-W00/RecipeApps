@@ -1,0 +1,36 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+viewBox="0 0 64 64"
+style="
+    width: 2.5rem;
+    margin-right: 0.75rem;
+"
+>
+<defs>
+    <style>
+        .cls-1 {
+            fill: #8a8b8b;
+        }
+        .cls-2 {
+            fill: #fff;
+        }
+    </style>
+</defs>
+<g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+        <circle
+            class="cls-1"
+            cx="32"
+            cy="32"
+            r="32"
+        />
+        <ellipse
+            class="cls-2"
+            cx="32"
+            cy="33.24"
+            rx="24.03"
+            ry="23.14"
+        />
+    </g>
+</g>
+</svg>

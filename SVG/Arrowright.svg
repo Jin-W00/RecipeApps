@@ -1,0 +1,24 @@
+    <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 8 14.55"
+    >
+        <defs>
+            <style>
+                .cls-123 {
+                    fill: #ffcc4d;
+            }
+            </style>
+        </defs>
+        <g id="Layer_2" data-name="Layer 2">
+            <g id="Layer_1-2" data-name="Layer 1">
+                <g id="Layer_2-2" data-name="Layer 2">
+                    <g id="Layer_1-2-2" data-name="Layer 1-2">
+                        <path
+                            class="cls-123"
+                            d="M3.43,14.55C5,12.08,6.46,9.62,8,7.15L3.35,0H0L4.89,7.31,0,14.46Z"
+                        />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </svg>
